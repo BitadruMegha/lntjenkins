@@ -7,7 +7,7 @@
 <title>Lnt Devops training</title>
 </head>
 <body>
-<h1>This is deployed on tomcat
+<h1>This is my new deployement on tomcat
 </h1>
 
 </body>
